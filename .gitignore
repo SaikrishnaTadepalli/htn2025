@@ -68,3 +68,4 @@ yarn-error.log*
 .yarn/install-state.gz
 
 # Typ
+.webm
